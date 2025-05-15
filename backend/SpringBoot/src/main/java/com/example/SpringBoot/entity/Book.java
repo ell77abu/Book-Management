@@ -13,3 +13,4 @@ public class Book {
     private BigDecimal retailPrice; // 零售价
     private Integer stockQuantity;  // 库存数量
 }
+
